@@ -1,6 +1,6 @@
 # Web Server With GoFiber
 
-**Golang**, is an open source modular programming language. It is somewhat equal to the C sytax, but has its own features that make it better.
+**Golang**, is an open source modular programming language. It is somewhat equal to the C syntax, but has its own features that make it better.
 
 Today we'll learn how to setup/initialize a web server using the golang programming languge.
 Golang does offer you a core package for creating web servers using the language called  Gofiber.
